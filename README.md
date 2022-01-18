@@ -1,1 +1,1 @@
-# COVID Learning Platform
+# Learnify - A COVID Learning Platform
